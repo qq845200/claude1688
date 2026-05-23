@@ -1,0 +1,13 @@
+{
+  "mode": "native",
+  "version": "2.1.148",
+  "targetPath": "/opt/homebrew/lib/node_modules/@anthropic-ai/claude-code/bin/claude.exe",
+  "backupPath": "/Users/oo/.claude/localize/backups/claude-2.1.148.bak.exe",
+  "originalSha256": "f4a1860d3d9b01653dde4183e2f1216ca9e0c1a404dd63caa4edf07c904102aa",
+  "patchedSha256": "3deeb563163ca823f53edddbb11d203eb8f93752f0ee5d9561c91ce83da02358",
+  "patchedAt": "2026-05-22T14:59:24.013Z",
+  "processedCount": 218,
+  "totalReplacements": 560,
+  "truncatedCount": 1,
+  "skippedCount": 19
+}
